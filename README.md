@@ -25,7 +25,7 @@ Tenho um perfil proativo, detalhista e com grande capacidade de aprendizado. Min
 
 ## 🏆 Certificados e Conquistas
 
-* Finalista em Competição de Informática (Nome da Competição, se lembrar)
+* Finalista em Competição de Informática (HackTeen Organiazada pela Venturus)
 * Certificado de Participação na Olimpíada Brasileira de Informática (OBI)
 * Certificado de Menção Honrosa na Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP)
 
