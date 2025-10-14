@@ -1,11 +1,19 @@
 # Olá, me chamo Arthur Fillipe M. de Morais 👋
 
+## 📊 Estatísticas do GitHub
+
 <p align="center">
   <a href="https://github.com/ArthLipe">
-    <img src="https://github-readme-stats-git-main-arthlipe-projects.vercel.app/api?username=ArthLipe&show_icons=true&theme=blue&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthLipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
   <a href="https://github.com/ArthLipe">
-    <img src="https://github-readme-stats-git-main-arthlipe-projects.vercel.app/api/top-langs/?username=ArthLipe&layout=compact&langs_count=8&theme=blue&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthLipe&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ArthLipe">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthLipe&theme=radical&hide_border=true"/>
   </a>
 </p>
 
