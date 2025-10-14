@@ -4,16 +4,16 @@
 
 <p align="center">
   <a href="https://github.com/ArthLipe">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthLipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthLipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&custom_title=Estatísticas%20do%20GitHub"/>
   </a>
   <a href="https://github.com/ArthLipe">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthLipe&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthLipe&layout=compact&langs_count=10&theme=radical&hide_border=true&custom_title=Principais%20Linguagens"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ArthLipe">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthLipe&theme=radical&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com/?user=ArthLipe&theme=radical&hide_border=true"/>
   </a>
 </p>
 
