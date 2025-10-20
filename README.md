@@ -21,7 +21,7 @@
 
 Sou um jovem desenvolvedor de 18 anos, finalizando o curso de **Ensino Médio com Habilitação Profissional de Técnico em Desenvolvimento de Sistemas** na ETEC Aristóteles Ferreira. Apaixonado por tecnologia e programação, estou em busca da minha primeira oportunidade profissional para aplicar meus conhecimentos, enfrentar novos desafios e colaborar em projetos inovadores.
 
-Com conhecimento tanto em front-end (HTML, CSS, JavaScript) quanto em back-end (C#, Java, .NET, Bancos de Dados), possuo as habilidades necessárias para atuar como **desenvolvedor Full-Stack** e criar soluções completas.
+Com conhecimento tanto em front-end (HTML, CSS, JavaScript) quanto em back-end (C#, .NET, Bancos de Dados), possuo as habilidades necessárias para atuar como **desenvolvedor Full-Stack** e criar soluções completas.
 
 Tenho um perfil proativo, detalhista e com grande capacidade de aprendizado. Minha ambição é crescer continuamente, aprimorar minhas habilidades e dominar novas tecnologias para me tornar um profissional de referência na área de desenvolvimento de software.
 
